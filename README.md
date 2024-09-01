@@ -20,7 +20,7 @@ E-commerce Solutions (WooCommerce)
 API Integration
 Professional Experience:
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: HTML / CSS/Wordpress Developer
 
 - 🔭 I’m currently working on this page. 
 
